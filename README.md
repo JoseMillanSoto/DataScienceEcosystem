@@ -1,2 +1,2 @@
-# DataScienceEcosystem
-En este cuadro es un resumen las herramientas y el ecosistema de ciencia de datos
+# public_IBM_DataScience_Certificate
+This is a public repository to share course materials and assignments
